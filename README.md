@@ -1,3 +1,5 @@
+![hiroadmadi](img/fotoprofil.jpg.jpeg)
+
 # 💫 About Me:
 🚀 Tech enthusiast passionate about Artificial Intelligence, Robotics, and Digital Innovation.<br>💡 Currently learning and building projects in AI, software development, and digital business.<br>🎯 Focused on becoming an AI Engineer, Robotic Engineer, and Tech Entrepreneur.
 
